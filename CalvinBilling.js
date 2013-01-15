@@ -89,6 +89,6 @@ function CheckForEaches()
 		}
 		ReportDoc.writeText(hugeArray[j]);
 	}
-	ReportDoc.save("/C/Documents and Settings/tom.shannon/Desktop/Acrobat/TESTEACHES.pdf");
+	ReportDoc.save("/Z/Acrobat/CalvinBilling.pdf");
 }
 CheckForEaches()
