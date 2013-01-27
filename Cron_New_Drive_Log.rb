@@ -4,7 +4,7 @@ require 'rexml/document'
 include REXML
 tableDBID = "bgexmn4t7"
 username = "reg.rms@regencylighting.com"
-password = "R3g.Rm5pa55"
+password = "PASSWORD"
 qbc = QuickBase::Client.new(username,password)
 qbc.printRequestsAndResponses = false
 truck_nos = ["904","905"]
