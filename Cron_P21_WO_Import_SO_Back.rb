@@ -1,7 +1,7 @@
 require 'C:\Ruby\lib\ruby\gems\1.9.1\gems\quickbase_client-1.0.4\lib\QuickBaseClient.rb'
 tableDBID = 'bfkavuvrv'
 username = 'reg.rms@regencylighting.com'
-password = 'R3g.Rm5pa55'
+password = 'PASSWORD'
 t = Time.now
 file = "\\\\Regfileshare01\\rms\\Conduit2.0\\P21OrderImport\\WOSOimport" + t.strftime('%Y%m%d') + ".txt"
 f = File.new(file, "r")
