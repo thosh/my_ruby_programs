@@ -6,7 +6,7 @@ include REXML
 woTABLEID = "bfkavuvrv"
 userTABLEID = "bfs8ea7bp"
 userName = "reg.rms@regencylighting.com"
-passWord = "R3g.Rm5pa55"
+passWord = "PASSWORD"
 
 the_record_ids = Hash.new
 queries = Hash[:uDispatch => "{\'192\'.XEX.\'1\'}AND{\'12\'.XEX.\'1\'}AND{\'62\'.TV.\'\'}",:uCloseOut => "{\'192\'.XEX.\'1\'}AND{\'12\'.EX.\'1\'}AND{\'63\'.TV.\'\'}",:uBilling => "{\'192\'.XEX.\'1\'}AND{\'12\'.EX.\'1\'}AND{\'16\'.XEX.\'1\'}AND{\'64\'.TV.\'\'}"]
