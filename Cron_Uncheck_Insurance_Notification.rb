@@ -4,7 +4,7 @@ require 'rexml/document'
 include REXML
 contractorTableID = "bbfijy4j7"
 username = "reg.rms@regencylighting.com"
-password = "R3g.Rm5pa55"
+password = "PASSWORD"
 
 class MyQuickBaseClient < QuickBase::Client
 	# API_EditRecord
