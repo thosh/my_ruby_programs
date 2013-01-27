@@ -4,7 +4,7 @@ require 'rexml/document'
 include REXML
 
 username = "reg.rms@regencylighting.com"
-password = "R3g.Rm5pa55"
+password = "PASSWORD"
 
 tableName = ['E4-Delete Lamps','E4-Delete Action Items','E4-Delete Contractor Invoices','E4-Delete Fixtures','Lightspeed-Delete Quotes','E4-Delete Proposed Applications', 'E4-Delete Proposed Ballast','E4-Delete Proposed Fixtures','E4-Delete Proposed Lamps','E4-Delete Existing Ballast','E4-Delete Existing Lamps','E4-Delete Existing Applications','E4-Delete ECMs','E4-Delete Retrofit Activities','E4-Delete Locations','E4-Stale Existing Applications','E4-Stale Existing Lamps','E4-Stale Proposed Applications','E4-Stale Proposed Ballast','E4-Stale Proposed Fixtures','E4-Stale ECMs','E4-Stale Existing Ballast','E4-Stale Proposed Lamps','E4-Stale Proposed Accessories','C2-Delete Attachments']
 tableID = ['bevw65uhc','bevw65ugy','be5wghvvp','bevw65uhe','bfa7tmu4f','bevw65ug5','bevw65ug7','bevw65ug8','bevw65uhu','bevw65uhv','bevw65ug6','bevw65ug4','bevw65ug3','bevw65ug2','bevw65ugz','bevw65ug4','bevw65ug6','bevw65ug5','bevw65ug7','bevw65ug8','bevw65ug3','bevw65uhv','bevw65uhu','bevw65ug9','bfkavuvvq']
