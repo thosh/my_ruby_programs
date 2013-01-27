@@ -20,7 +20,7 @@ theToUser = ""
 updateInfo = []
 
 
-qbc = QuickBase::Client.new("reg.rms@regencylighting.com","R3g.Rm5pa55")
+qbc = QuickBase::Client.new("reg.rms@regencylighting.com","PASSWORD")
 qbc.printRequestsAndResponses = false
 
 theRecordxml = "<xml>" + qbc.doQuery( "bevw65ug2", nil, "329", nil, nil, nil, nil, nil ).join + "</xml>"
