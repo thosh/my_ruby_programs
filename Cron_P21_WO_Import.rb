@@ -30,7 +30,7 @@ theDispositions = []
 
 woTableDBID = "bfkavuvrv"
 username = "reg.rms@regencylighting.com"
-password = "R3g.Rm5pa55"
+password = "PASSWORD"
 qbc = QuickBase::Client.new(username,password)
 qbc.printRequestsAndResponses = false
 
