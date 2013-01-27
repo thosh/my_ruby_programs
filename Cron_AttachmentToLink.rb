@@ -5,7 +5,7 @@ include REXML
 
 tableDBID = "bfkavuvvq"
 username = "reg.rms@regencylighting.com"
-password = "R3g.Rm5pa55"
+password = "PASSWORD"
 
 my_rids = []
 my_filenames = []
